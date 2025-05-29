@@ -1,7 +1,7 @@
 # Simple Calculator
 # Get number from user
 first_number = float(input("Enter the first number: "))
-# Get  number from user
+# Get number from user
 second_number = float(input("Enter the second number: "))
 # Ask user to choose an operation
 print("\nChoose an operation:")
